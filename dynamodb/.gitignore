@@ -1,0 +1,3 @@
+instances.txt
+.terraform/**/*
+terraform.tfstate*
